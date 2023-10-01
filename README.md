@@ -68,4 +68,4 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 - Collaborated with the chief of security staff in the mobilization of various guards during the fest.
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akhilesh-sirohi/) for more information and collaboration opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akhileshsirohi/) for more information and collaboration opportunities.
