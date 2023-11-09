@@ -59,7 +59,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 
 ## Coding Profiles
 - [HackerRank Profile](https://www.hackerrank.com/AkhileshSirohi) (6-Star in Problem Solving)
-- [LeetCode Profile](https://leetcode.com/akhileshsirohi/)
+- [LeetCode Profile](https://leetcode.com/akhileshsirohi/) (550+ problems solved)
 - [CodeForces Profile](https://codeforces.com/profile/akhileshsirohi) (Max Rating: 1631)
 - [Stopstalk Profile](https://www.stopstalk.com/user/profile/akhileshsirohi)
 
