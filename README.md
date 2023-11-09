@@ -48,7 +48,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 - 39th Place in ICPC Regionals - Kanpur-Mathura 2021.
 - Ranked 1st in Razorpay Coders League 2, an internal competitive coding competition.
 - Global Rank 341 in Google Kick Start 2020 Round H.
-- Bitmasking Code on Production : To create validation for fraud detection.
+- Bitmasking Code on Production : To create validation of rules for fraud detection.
 
 ## Tech Stack
 - Golang, PHP, R, CPP
