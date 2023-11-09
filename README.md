@@ -5,14 +5,14 @@ Senior Software Developer @Razorpay (September 2022 – Present)
 I am a Senior Software Developer at Razorpay, passionate about building and optimizing systems for high-performance and efficiency. With a strong background in Golang and a proven track record of delivering impactful solutions, I thrive in challenging environments, leading teams, and driving technological advancements.
 
 ## Tech Achievements: Razorpay
-- Used bit-masking to create validation for rules on real-time fraud detection service.
-- Made Binary Search Code Live on Prod.
+- Used bit-masking to create validation for rules on real-time payment fraud detection service.
+- Used Binary Search and Async programming in Payment flow while integrating a ML model for real-time fraud detection.
 - Reduced Redis IOPS by 40% and latencies of fraud-detection by upto 70%.
 - Created a realtime dashboard for functional insights of fraud-detection on rule level.
 - Started Async programming in the payment-flow service to reduce the latencies of payment fraud detection by 250 ms.
-- <img width="989" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/4bfd0cd7-8aa9-4fba-b0f1-26caee045a18">
+ <img width="989" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/4bfd0cd7-8aa9-4fba-b0f1-26caee045a18">
 - In the figure below, I chose the second option as the context switch of CPU will add to the latency
-- <img width="700" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/e757e552-6436-4345-89fa-8ec2df6f7d56">
+ <img width="700" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/e757e552-6436-4345-89fa-8ec2df6f7d56">
 
 
 ## Experience
