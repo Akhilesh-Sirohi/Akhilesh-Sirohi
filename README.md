@@ -12,7 +12,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 - Started Async programming in the payment-flow service to reduce the latencies of payment fraud detection by 250 ms.
 - <img width="989" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/4bfd0cd7-8aa9-4fba-b0f1-26caee045a18">
 - In the figure below, I chose the second option as the context switch of CPU will add to the latency
-- <img width="989" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/e757e552-6436-4345-89fa-8ec2df6f7d56">
+- <img width="700" alt="image" src="https://github.com/Akhilesh-Sirohi/Akhilesh-Sirohi/assets/54024944/e757e552-6436-4345-89fa-8ec2df6f7d56">
 
 
 ## Experience
