@@ -1,4 +1,6 @@
 # Akhilesh Sirohi
+Civil Engineering@IIT Roorkee'21
+Software Developer@Razorapy
 Senior Software Developer @Razorpay (September 2022 – Present)
 
 ## About Me
@@ -49,6 +51,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 - Ranked 1st in Razorpay Coders League 2, an internal competitive coding competition.
 - Global Rank 341 in Google Kick Start 2020 Round H.
 - Bitmasking Code on Production : To create validation of rules for fraud detection.
+- Civil Engineering Degree From IIT Roorkee'21
 
 ## Tech Stack
 - Golang, PHP, R, CPP
@@ -82,3 +85,4 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akhileshsirohi/) for more information and collaboration opportunities.
+Or Whatsapp/Call me on 8114455061
