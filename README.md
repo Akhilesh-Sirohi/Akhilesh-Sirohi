@@ -46,6 +46,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 
 ## Achievements
 - Year-2023: Binary Search Code on Production
+- Year-2023: Used async programming in Golang extensively, resulting in about 50% reduction in real-time fraud detection latencies.
 - Year-2022: Promoted to Senior Software Developer in Razorpay
 - Year-2022: Bitmasking Code on Production : To create validation of rules for fraud detection.
 - Year-2021: Ranked 1st in Razorpay Coders League 2, an internal competitive coding competition.
