@@ -50,7 +50,7 @@ I am a Senior Software Developer at Razorpay, passionate about building and opti
 - Year-2022: Promoted to Senior Software Developer in Razorpay
 - Year-2022: Bitmasking Code on Production : To create validation of rules for fraud detection.
 - Year-2021: Ranked 1st in Razorpay Coders League 2, an internal competitive coding competition.
-- Year-2021: Civil Engineering Degree From IIT Roorkee'21
+- Year-2021: B.Tech Degree From IIT Roorkee'21
 - Year-2021: 39th Place in ICPC Regionals - Kanpur-Mathura.
 - Year-2020: Global Rank 341 in Google Kick Start 2020 Round H.
 - Year-2017: JEE ADVANCE 2017 RANK-3010
