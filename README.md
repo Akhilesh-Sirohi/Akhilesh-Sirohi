@@ -1,4 +1,4 @@
-# Akhilesh Sirohi (Phone-Number: 8114455061)
+# Akhilesh Sirohi
 Senior Software Developer @Razorpay (September 2022 – Present)
 
 ## About Me
